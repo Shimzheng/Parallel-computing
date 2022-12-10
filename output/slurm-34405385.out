@@ -1,0 +1,48 @@
+The following modules were not unloaded:
+  (Use "module --force purge" to unload all):
+
+  1) showq/0.15   2) slurm/latest
+2 nodes 8 cores (4 codes per node)
+Error reading line --ignoring
+
+Error reading line --ignoring
+{"total_rows":215443567,"offset":211386044,"rows":[
+Cell  #Tweets  #Number of Languages Used
+  A1       21                          2
+  A2       22                          2
+  A3       11                          3
+  A4       85                          4
+  B1      184                          5
+  B2      504                         12
+  B3      641                         12
+  B4      469                         10
+  C1       46                          4
+  C2       95                          6
+  C3     4480                         30
+  C4      962                         21
+  D1       97                          6
+  D2       33                          2
+  D3      160                          7
+  D4        3                          1
+Cell                                                                                                                                     #Top 10 Languages & #Tweets
+  A1                                                                                                                                    [(English, 20), (French, 1)]
+  A2                                                                                                                                  [(English, 21), (Japanese, 1)]
+  A3                                                                                                                      [(English, 9), (Indonesian, 1), (Thai, 1)]
+  A4                                                                                                        [(English, 80), (French, 2), (Turkish, 2), (Spanish, 1)]
+  B1                                                                                         [(English, 179), (Tagalog, 2), (Haitian, 1), (Catalan, 1), (Danish, 1)]
+  B2                [(English, 482), (Chinese, 5), (Italian, 4), (Japanese, 3), (Tagalog, 2), (German, 2), (Indonesian, 1), (Estonian, 1), (Hindi, 1), (Spanish, 1)]
+  B3              [(English, 610), (Indonesian, 5), (Japanese, 5), (Chinese, 5), (Romanian, 4), (Portuguese, 3), (Spanish, 3), (Catalan, 2), (German, 1), (Thai, 1)]
+  B4               [(English, 450), (Japanese, 8), (Portuguese, 3), (Italian, 2), (French, 1), (Dutch, 1), (Turkish, 1), (Spanish, 1), (German, 1), (Indonesian, 1)]
+  C1                                                                                                         [(English, 42), (French, 2), (Haitian, 1), (German, 1)]
+  C2                                                                        [(English, 84), (Indonesian, 6), (Spanish, 2), (French, 1), (Romanian, 1), (Chinese, 1)]
+  C3 [(English, 4186), (Japanese, 56), (Spanish, 42), (Indonesian, 32), (Catalan, 24), (Portuguese, 15), (Tagalog, 13), (Chinese, 13), (German, 12), (Romanian, 11)]
+  C4            [(English, 888), (Haitian, 17), (Romanian, 6), (Indonesian, 6), (Japanese, 6), (Italian, 5), (Estonian, 5), (Spanish, 5), (Tagalog, 4), (French, 3)]
+  D1                                                                       [(English, 90), (Welsh, 2), (Portuguese, 2), (Lithuanian, 1), (Catalan, 1), (Spanish, 1)]
+  D2                                                                                                                                   [(English, 31), (Spanish, 2)]
+  D3                                                           [(English, 154), (Catalan, 1), (Tagalog, 1), (Thai, 1), (Portuguese, 1), (Estonian, 1), (Spanish, 1)]
+  D4                                                                                                                                                  [(English, 3)]
+Total processing time = 0:00:33.947926
+
+real	0m36.012s
+user	0m0.014s
+sys	0m0.022s
